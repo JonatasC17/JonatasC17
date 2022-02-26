@@ -1,4 +1,20 @@
-### Olá, eu sou Jonatas Carvalho 👋
+# Olá, eu sou Jonatas Carvalho 👋
+
+dheh
+---
+
+
+## **🙋🏾 Sobre mim**
+- 🛠️ Estou trabalhando duro para ingressar na área de Densenvolvimento Web.
+- 🌱 Atualmente estudo React JS e Node.
+- 📚 Gosto de estudar e de aprender coisas novas
+- 🤝 Estou disposto a ajudar e não tenho vergonha de pedir ajuda. 
+
+
+---
+
+
+
 ##
 <div align="center">
   <a href="https://github.com/JonatasC17">

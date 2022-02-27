@@ -12,15 +12,6 @@ Apaixonado por Desenvolvimento Web, Desing, Ciência, Tecnologia e Café.
 
 ---
 
-## **📊 Estatísticas**
-
-[![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-  
-  ---
-  
 ## **🤩 Meus interesses**
   
 <div style="display: inline_block"><br>
@@ -33,6 +24,16 @@ Apaixonado por Desenvolvimento Web, Desing, Ciência, Tecnologia e Café.
 </div>
   
 ---
+
+## **📊 Estatísticas**
+
+[![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  
+  ---
+  
   
 ## **🤜🤛 Entre em contato**
 <div> 

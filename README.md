@@ -1,14 +1,16 @@
 # Olá, eu sou Jonatas Carvalho 👋
 
-Apaixonado por Desenvolvimento Web, Desing, Ciência, Tecnologia e Café. 
+ Em busca de novos desafios e oportunidades no incrível mundo do Desenvolvimento. 
 
 ---
 
 ## **🙋🏾 Sobre mim**
-- 🛠️ Estou trabalhando duro para ingressar na área de Densenvolvimento Web.
-- 🌱 Atualmente estudo React JS e Node.
-- 📚 Gosto de estudar e de aprender coisas novas
-- 🤝 Estou disposto a ajudar e não tenho vergonha de pedir ajuda. 
+- 🛠️ Acredito que todo esforço vale a pena quando se tem um propósito.
+- 📚 Estudo programação com foco em Desenvolvimento Web.
+- 🌱 Aprender algo novo me motiva e me encanta.  
+- 🤝 Gosto de colaborar com pessoas que não têm medo de cometer erros e sabem trabalhar em equipe.
+
+
 
 ---
 

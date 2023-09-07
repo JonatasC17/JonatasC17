@@ -3,7 +3,7 @@
  Em busca de novos desafios e oportunidades no incrível mundo do Desenvolvimento. 
 
 ---
-
+&nbsp;
 ## **🙋🏾 Sobre mim**
 - 🛠️ Acredito que todo esforço vale a pena quando se tem um propósito.
 - 📚 Estudo programação com foco em Desenvolvimento Web.
@@ -14,7 +14,7 @@
 
 
 ---
-
+&nbsp;
 ## **🤩 Minhas habilidades**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -26,7 +26,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   
 ---
-
+&nbsp;
 ## **📊 Estatísticas**
 
 [![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -35,7 +35,7 @@
 
   
   ---
-  
+  &nbsp;
   
 ## **🤜🤛 Entre em contato**
 <div> 

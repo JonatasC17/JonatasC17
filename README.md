@@ -44,5 +44,5 @@
 </div>
   
   ![Snake animation](https://github.com/JonatasC17/JonatasC17/blob/output/github-contribution-grid-snake.svg)
-  
-Feito com ❤️ por Jonatas Carvalho 
+  &nbsp;
+  <p>Feito com ❤️ por Jonatas Carvalho</p>

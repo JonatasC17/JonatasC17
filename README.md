@@ -45,4 +45,4 @@
   
   ![Snake animation](https://github.com/JonatasC17/JonatasC17/blob/output/github-contribution-grid-snake.svg)
   &nbsp;
-  <p>Feito com ❤️ por Jonatas Carvalho</p>
+  <p align='center'>Feito com ❤️ por Jonatas Carvalho</p>

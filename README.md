@@ -25,7 +25,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)&nbsp;
   
 ---
 &nbsp;
@@ -45,6 +45,5 @@
   <a href="https://www.linkedin.com/in/jonatascarvalho17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/JonatasC17/JonatasC17/blob/output/github-contribution-grid-snake.svg)
   &nbsp;
   <p align='center'>Feito com ❤️ por Jonatas Carvalho</p>

@@ -25,6 +25,16 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/JonatasC17/JonatasC17/main/profile-summary-card-output/nightowl/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
